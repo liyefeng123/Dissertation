@@ -1,0 +1,160 @@
+\begin{thebibliography}{10}
+
+\bibitem{jagadish2014big}
+H.~V. Jagadish, J.~Gehrke, A.~Labrinidis, Y.~Papakonstantinou, J.~M. Patel,
+  R.~Ramakrishnan, and C.~Shahabi, ``Big data and its technical challenges,''
+  {\em Communications of the ACM}, vol.~57, no.~7, pp.~86--94, 2014.
+
+\bibitem{lopes2010traffic}
+J.~Lopes, J.~Bento, E.~Huang, C.~Antoniou, and M.~Ben-Akiva, ``Traffic and
+  mobility data collection for real-time applications,'' in {\em 13th
+  International IEEE Conference on Intelligent Transportation Systems},
+  pp.~216--223, IEEE, 2010.
+
+\bibitem{hutchins2008probabilistic}
+J.~Hutchins, A.~Ihler, and P.~Smyth, ``Probabilistic analysis of a large-scale
+  urban traffic sensor data set,'' in {\em International Workshop on Knowledge
+  Discovery from Sensor Data}, pp.~94--114, Springer, 2008.
+
+\bibitem{aggarwal2012survey}
+C.~C. Aggarwal and C.~Zhai, ``A survey of text classification algorithms,'' in
+  {\em Mining text data}, pp.~163--222, Springer, 2012.
+
+\bibitem{chen2019design}
+Y.-Y. Chen, Y.-H. Lin, C.-C. Kung, M.-H. Chung, I.~Yen, {\em et~al.}, ``Design
+  and implementation of cloud analytics-assisted smart power meters considering
+  advanced artificial intelligence as edge analytics in demand-side management
+  for smart homes,'' {\em Sensors}, vol.~19, no.~9, p.~2047, 2019.
+
+\bibitem{Wiki-ANN}
+Wikipedia, ``Artificial neural network.''
+  \url{https://en.wikipedia.org/wiki/Artificial_neural_network}.
+
+\bibitem{goodfellow2016deep}
+I.~Goodfellow, Y.~Bengio, and A.~Courville, {\em Deep learning}.
+\newblock MIT press, 2016.
+
+\bibitem{MIT-NN}
+L.~Hardesty, ``Explained: Neural networks.''
+  \url{http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414}.
+
+\bibitem{dupond2019thorough}
+S.~Dupond, ``A thorough review on the current advance of neural network
+  structures,'' {\em Annual Reviews in Control}, vol.~14, pp.~200--230, 2019.
+
+\bibitem{fernandez2009novel}
+A.~Fernandez, R.~B.~H. Bunke, and J.~Schmiduber, ``A novel connectionist system
+  for improved unconstrained handwriting recognition,'' {\em IEEE Transactions
+  on Pattern Analysis and Machine Intelligence}, vol.~31, no.~5, 2009.
+
+\bibitem{sak2014long}
+H.~Sak, A.~W. Senior, and F.~Beaufays, ``Long short-term memory recurrent
+  neural network architectures for large scale acoustic modeling,'' 2014.
+
+\bibitem{li2015constructing}
+X.~Li and X.~Wu, ``Constructing long short-term memory based deep recurrent
+  neural networks for large vocabulary speech recognition,'' in {\em 2015 IEEE
+  International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP)}, pp.~4520--4524, IEEE, 2015.
+
+\bibitem{hochreiter9ja1}
+S.~Hochreiter, ``Ja1 4 rgen schmidhuber (1997).“long short-term memory”,''
+  {\em Neural Computation}, vol.~9, no.~8.
+
+\bibitem{graves2008novel}
+A.~Graves, M.~Liwicki, S.~Fern{\'a}ndez, R.~Bertolami, H.~Bunke, and
+  J.~Schmidhuber, ``A novel connectionist system for unconstrained handwriting
+  recognition,'' {\em IEEE transactions on pattern analysis and machine
+  intelligence}, vol.~31, no.~5, pp.~855--868, 2008.
+
+\bibitem{LSTM-github}
+C.~Olah, ``Understanding lstm networks.''
+  \url{http://colah.github.io/posts/2015-08-Understanding-LSTMs/}.
+
+\bibitem{d2015real}
+E.~D'Andrea, P.~Ducange, B.~Lazzerini, and F.~Marcelloni, ``Real-time detection
+  of traffic from twitter stream analysis,'' {\em IEEE transactions on
+  intelligent transportation systems}, vol.~16, no.~4, pp.~2269--2283, 2015.
+
+\bibitem{IE-github}
+Wikipedia, ``Information extraction.''
+  \url{https://en.wikipedia.org/wiki/Information_extraction}.
+
+\bibitem{virmani2017extracting}
+C.~Virmani, A.~Pillai, and D.~Juneja, ``Extracting information from social
+  network using nlp,'' {\em International Journal of Computational Intelligence
+  Research}, vol.~13, no.~4, pp.~621--630, 2017.
+
+\bibitem{cardie1997empirical}
+C.~Cardie, ``Empirical methods in information extraction,'' {\em AI magazine},
+  vol.~18, no.~4, pp.~65--65, 1997.
+
+\bibitem{NLTK-doc}
+U.~of~Pennsylvania, ``Natural language toolkit.'' \url{https://www.nltk.org/}.
+
+\bibitem{gensim-doc}
+R.~Řehůřek, ``gensim.'' \url{https://radimrehurek.com/gensim/}.
+
+\bibitem{Keras-doc}
+F.~Chollet, ``Keras.'' \url{https://keras.io/}.
+
+\bibitem{POS-wiki}
+Wikipedia, ``Part-of-speech tagging.''
+  \url{https://en.wikipedia.org/wiki/Part-of-speech_tagging#:~:text=In%20corpus%20linguistics%2C%20part%2Dof,its%20definition%20and%20its%20context.}
+
+\bibitem{NER-wiki}
+Wikipedia, ``Understanding lstm networks.''
+  \url{https://en.wikipedia.org/wiki/Named-entity_recognition}.
+
+\bibitem{zitouni2014natural}
+I.~Zitouni, {\em Natural language processing of semitic languages}.
+\newblock Springer, 2014.
+
+\bibitem{riloff2004introduction}
+E.~Riloff and W.~Phillips, ``An introduction to the sundance and autoslog
+  systems,'' tech. rep., Technical Report UUCS-04-015, School of Computing,
+  University of Utah, 2004.
+
+\bibitem{mikheev1999named}
+A.~Mikheev, M.~Moens, and C.~Grover, ``Named entity recognition without
+  gazetteers,'' in {\em Ninth Conference of the European Chapter of the
+  Association for Computational Linguistics}, 1999.
+
+\bibitem{miller1998bbn}
+S.~Miller, M.~Crystal, H.~Fox, L.~Ramshaw, R.~Schwartz, R.~Stone,
+  R.~Weischedel, {\em et~al.}, ``Bbn: Description of the sift system as used
+  for muc-7,'' in {\em Seventh Message Understanding Conference (MUC-7):
+  Proceedings of a Conference Held in Fairfax, Virginia, April 29-May 1, 1998},
+  1998.
+
+\bibitem{abdelhaq2013eventweet}
+H.~Abdelhaq, C.~Sengstock, and M.~Gertz, ``Eventweet: Online localized event
+  detection from twitter,'' {\em Proceedings of the VLDB Endowment}, vol.~6,
+  no.~12, pp.~1326--1329, 2013.
+
+\bibitem{abel2012twitcident}
+F.~Abel, C.~Hauff, G.-J. Houben, R.~Stronkman, and K.~Tao, ``Twitcident:
+  fighting fire with information from social web streams,'' in {\em Proceedings
+  of the 21st International Conference on World Wide Web}, pp.~305--308, 2012.
+
+\bibitem{schulz2013see}
+A.~Schulz, P.~Ristoski, and H.~Paulheim, ``I see a car crash: Real-time
+  detection of small scale incidents in microblogs,'' in {\em Extended semantic
+  web conference}, pp.~22--33, Springer, 2013.
+
+\bibitem{lamport}
+L.~Lamport, {\em {\LaTeX} -- A document preparation system}.
+\newblock Addison-Wesley, 2nd~ed., 1994.
+
+\bibitem{boyle}
+R.~D. Boyle and R.~C. Thomas, {\em Computer Vision - A First Course}.
+\newblock Blackwell Scientific Publications, 1988.
+
+\bibitem{rd-only}
+W.~Dyke, ``The nutter's guide to {\LaTeX},'' {\em Read Only}, May 1994.
+
+\bibitem{url-cite}
+{\LaTeX}.~Team, ``{URL}s in {BibTeX} bibliographies.''
+  \url{http://www.tex.ac.uk/cgi-bin/texfaq2html?label=citeURL}, 2012.
+
+\end{thebibliography}

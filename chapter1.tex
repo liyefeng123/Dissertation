@@ -1,0 +1,55 @@
+\chapter{Introduction}
+\label{cha:intro}
+\section{Project Description and Motivation }
+\qquad Big Data now drives almost every aspect of society. A successful large-scale analysis often requires the collection of heterogeneous data from various sources \cite{jagadish2014big}. For example, if we want to study the impact of coronaviruses on British society, then we need data from various sources, such as information from hospitals, information from carehouse for elder, information from ins, facebook, twitter, information from financial institutions, ect. \\
+
+However, these data are stored in different formats, such as CSV, JSON, XML, and also some data stored as text, which is natural language. If these data are not integrated together and have a unified format, then the value of these data is difficult to maximize. On the other hand, information from a single data source is not completely reliable, like the data from the sensors. Due to the complex working environment of sensors, the generated data is very noisy. Because some sensors cannot work normally, there are a lot of abnormal data and missing data \cite{lopes2010traffic}.\\
+
+If we combine these potentially erroneous data with information from certain more reliable data sources, the quality of the data will be higher. That is why we need data integration, especially integrating natural language information, which can not only improve the reliability of data but also bring us a more comprehensive view of the situation. Moreover, the unified format of data makes it easier for us to conduct further data analysis.\\
+
+But there are some challenges of this kind of data integration. In addition to common data heterogeneity issues, firstly, data from different sources of natural language has a certain degree of information redundancy. And then, most of the data is expressed in the free text, which is not structured, which means that during data integration, extracting relevant information from natural language data and transforming it into structured data is essential. In order to address these challenges, information extraction (IE) is crucial, it takes unrestricted text as input and 'summarizes' information according to the specified topic or domain of interest, in other words, it seeks valuable information and encodes these information into a structured form, ideal for the storage of database.\\
+
+
+\section{Project Aim and Objectives }
+\qquad The aim of this project is to benefit traffic data service providers and road users, and implement text classification, information extraction and data integration for the data comes form following information sources to generate comprehensive and valuable data for further data analysis.
+\begin{itemize} %\cite{Twitter-website}\cite{BBC-website}
+\item data comes from social media like Twitter  as people often post when they are late, encounter traffic jams, or abnormal traffic conditions, which are using natural language.
+\item data comes from news website like BBC, because these news websites have some pages about traffic conditions, some reporters or citizens will provide traffic news to these news organizations. After verifying the situation, the news websites will release these news soon, which are also using natural language.
+\item data comes from road-side sensors like inductive loop sensors, Bluetooth sensors, etc.
+\end{itemize}
+
+The ultimate idealized goal of this project is to develop an application that can collect and analyze traffic-related data, answer road users' questions about journey time, and can discover road accidents, warning road users, and transportation agencies to shorten transit time and reduce casualties. Because of the time limitation, the core components are developed first, and the remaining parts can be implemented in the future.
+
+In this report, these core components(data collection, sentence classification, information extraction, data integration) will be introduced, while development methods and evaluation methods will also be presented.
+the objectives of this project:
+\begin{itemize}
+\item review the literature in data preparation for analysis, with a focus on data integration;
+\item review the literature in techniques for NLP and identify the most appropriate techniques for incident detection in social media;
+\item design, implement and test a neural network sentence classification solution. 
+\item design, implement and test a NLP solution for incident detection and information extraction; 
+\item design, implement and test a data integration process that includes the proposed NLP solution;
+\end{itemize}
+\section{Project Scope}
+\qquad To achieve the aim and objectives discussed in previous Section, the scope of this project is identified as follows: 
+\begin{itemize}
+\item All natural language data will be obtained from the BBC News website and Twitter.
+\item Choose the appropriate method to obtain data from the above information sources
+\item Choose a suitable natural language processing method or library for data preprocessing
+\item Select or develop appropriate text classification algorithms, and establish evaluation indicators to evaluate algorithm performance
+\item Research on named entity recognition algorithms and choose appropriate algorithms for implementation
+\item Research on information extraction algorithms and select suitable solutions for implementation
+\item Research data integration, investigate existing tools, select or implement data integration algorithms
+\end{itemize}
+\section{Dissertation Structure}
+\qquad The remainder of this dissertation is organized as follows. Chapter 2 shows the background and literature review of this project to illustrate the comprehensive understanding of related research and algorithm about text classification, information extraction, and data integration,.ect. Chapter 3 presents the research methodology and the specific method of project realization. Chapter 4 describes the two use cases of this project to show how the various modules of the project work together. The first use case is to combine sensor data with natural language information using the BBC News website as the data source. And the second use case is to combine sensor data with natural language information using the BBC News website as the data source. Chapter 5 gives the evaluation result of the algorithms used in this project and the performance of two language models in text classification. Future work and conclusion are given in Chapter 6.
+% Everything below here is commented material which is used by the
+% emacs tex support system called auctex. If you're not an emacs user
+% you can safely ignore it. If you do use emacs you should take a look
+% at the local emacs or LaTeX WWW pages for more on emacs support for
+% LaTeX.
+
+% Local Variables:
+% mode: latex
+% TeX-master: "report"
+% End:
+
